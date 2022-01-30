@@ -1,0 +1,11 @@
+{
+    "homepage": "https://www.python.org/",
+    "version": "3.9.10",
+    "license": "PSF",
+    "url": "https://www.python.org/ftp/python/3.9.10/python-3.9.10-amd64.exe",
+    "hash": "747ac35ae667f4ec1ee3b001e9b7dbc6",
+    "extract_dir": "python-3.9.10",
+    "bin": [
+        "bin/python.exe"
+    ]
+}

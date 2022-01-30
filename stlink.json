@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/texane/stlink/",
+    "version": "1.3.0",
+    "license": "MIT",
+    "url": "https://github.com/texane/stlink/releases/download/1.3.0/stlink-1.3.0-win64.zip",
+    "hash": "0BB0B71F3CCC167B6352E22B005F6026C2595337F74AD23B51785DE41051CC94",
+    "extract_dir": "stlink-1.3.0-win64",
+    "bin": [
+        "bin/st-flash.exe",
+        "bin/st-info.exe",
+        "bin/st-util.exe"
+    ]
+}

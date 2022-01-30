@@ -1,0 +1,11 @@
+{
+    "homepage": "http://gnutoolchains.com/arm-eabi/openocd/",
+    "version": "0.11.0-3",
+    "license": "MIT",
+    "url": "https://github.com/xpack-dev-tools/openocd-xpack/releases/tag/v0.11.0-3/xpack-openocd-0.11.0-3-win32-x64.zip",
+    "hash": "04d3ea366ae37dbf2c767c52b19c74a606c5710c54055db795da1ab4578f18cf",
+    "extract_dir": "xpack-openocd-0.11.0-3",
+    "bin": [
+        "bin/openocd.exe"
+    ]
+}
